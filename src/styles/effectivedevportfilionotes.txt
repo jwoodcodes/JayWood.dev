@@ -1,0 +1,163 @@
+
+
+Here are some of the traits they’re hoping we’ll show in our application:
+• Competence. Has this person built professional-looking projects before?
+• Enthusiasm. Does this person seem eager to learn, excited for the kinds of work they
+would do on the job?
+• Fit. Does this person have the right kind of personality for the company? Have they
+worked with the languages and frameworks we use here?
+Critically, these folks are often very busy, since they have a lot of applicants to get through
+and many other job responsibilities to fulfill. They’ll likely make a decision about moving
+forward in the process with you within 30-60 seconds. Our portfolio will need to capture
+their attention and communicate competence, enthusiasm and fit in a very short window
+of time.
+//
+
+Unlike HR hiring managers, developers generally aren’t very interested in what languages or
+frameworks you know. In fact, for junior roles, developers care much more about your
+potential rather than what you happen to know already. They want to know if you’ll be easy
+to mentor. They want to know if you have the grit to work through tough problems, and the
+humility to admit when you don’t know something.
+//
+
+In terms of tone, it uses that “professional” tone people take when trying to get a job in the
+corporate world. I suspect that this tone might still be relevant when applying to work in a
+different industry, but it’s the wrong tone for the vast majority of tech roles.
+What should an “About Me” section look like? We’ll discuss more in Chapter 4, but here’s a
+quick example of how I might write this for myself, when I was just starting out.
+Hi there! I’m Josh. I’m a passionate introvert who loves building things with
+code.
+My first experience with programming was when I was 12, but I didn’t last
+long: I was a big fan of computer-animated TV shows like Reboot, and I
+decided I wanted to do “computer graphics”. My mom bought me a C++
+Reference Manual. It was several hundred pages, and totally inscrutable to me.
+Years later, I decided to try learning Python. It was a radically different
+experience. I distinctly remember the moment it clicked; I was watching The
+Price is Right, and they were spinning the big wheel. A contestant landed on
+0.70, and it made me wonder: statistically, what was their best move?
+It occurred to me: I had the skills to build a simulation! So I threw together a
+Python script that would run thousands of simulations to work out what the
+right answer was. 15 minutes later, I had the answer. My burgeoning skillset
+was a superpower: I could derive answers that were previously off-limits to me.
+It was magic.
+Since then, I’ve been honing my skills and learning Javascript. I recently
+graduated from Apex College’s 12-week intensive Web Development Bootcamp
+program. I’m seeking a full-time role where I can help a company achieve their
+goals.
+This “About Me” section wouldn’t work for anyone else (well, unless they were willing to
+make up a big lie about their history!), and that’s the point. It’s true to who I am, and shares
+a compelling window into my personality and experience.
+//
+
+Let’s look at this through the lens of an HR hiring manager. You have a stack of applications
+to get through, and you can only realistically give 10-20% of them interviews. You click
+through to Charlie’s portfolio site, and you see the original generic “About me” section. You
+spend 3 seconds skimming it, and decide to skip to the next section, since there’s nothing of
+interest there. Unless something else on the page catches their eye, they’ll likely move
+straight on to the next applicant in the pool. By the time they get to the end, they’ll have
+forgotten yours entirely.
+Compare that to the revised description, with the anecdotes. As their eyes skim the section,
+they catch “The Price Is Right”, which is a very unusual thing to spot on a portfolio site! They
+start reading from the beginning, and they get hooked in. They’re interested to know more
+about how you solved the problem, and what the answer was (should the contestant spin
+again??). You’ve created a memory, and a mild emotional response. After getting through
+the stack of applicants, it’s likely that yours will still be in the back of their mind. Most
+portfolio sites are generic, and it doesn’t take much to have yours stand out.
+Hiring managers care about all the things you’d expect — work experience, volunteer
+experience, projects, education, skillset — but they’re also looking for people they’d enjoy
+working with. A quirky (and, critically, inoffensive) anecdote can endear you to them.
+Someone in that stack might have had a lot more experience than you, but if they forget that
+the person exists, they won’t get the job. You might.
+//
+
+Be a tour guide
+You don’t want visitors to wander around on a live demo, or go spelunking in the codebase.
+We want to highlight the most impressive and interesting parts of our products!
+With a live demo, you’re taking a lot of risks:
+• Have you tested your site on the browser and/or device the visitor is using?
+• Will they follow exactly the same flow you’ve imagined? Unless you have a background
+as a senior UX designer, it’s likely that they won’t!
+• Does your app require a signup, or any other high-friction setup? Most people don’t
+have the patience to sign up for things.
+• Have you found and fixed all possible edge-case bugs? Live demos going awry happens
+so much that it’s cliché.
+Even if everything goes flawlessly, think about what isn’t conveyed in a live demo:
+• Why is this project important to you? What inspired it? Why did you choose to build
+this?
+• What are the major features that make it unique? How does it compare to existing
+products like it?
+• What did you start with? Was this built from scratch? Did you have a team? If so,
+which parts did you do? Where did the design come from? Was there any
+collaboration?
+• What was the hardest part of building this product? Where did you get stuck along the
+way?
+• When you did get stuck, how did you resolve it? How did you overcome the obstacles
+you faced?
+2 2
+• What did you learn from doing this project? How has it affected the work you’ve done
+since then?
+//
+
+When it comes to the codebase, there are likely areas where you were able to come up with
+a clever solution to a hard problem, and other spots where you duct taped things together,
+or where things are working but you’re not sure why. Every codebase has dusty closets. If a
+developer does check the link to your Github and start poking around, will they see the best
+bits?
+Earlier, we spoke about how a portfolio lets us squeeze value out of our personal projects. We
+built a cool thing, but nobody knows about all the stuff that makes it compelling!
+We want to tell a story about how a project came to be. It’s much more interesting than
+showing a final product, without context. It also sends a much stronger signal to employers
+about what you can do!
+It’s probably still a good idea to include links to a live demo, mostly to serve as proof
+that you actually built the thing you’re describing. But it should be de-emphasized. Most
+folks won’t check. The people who do will likely take 10 seconds to say “yep, this is what
+they said it would be”, and bail.
+//
+
+While having complementary skills is a good thing, this sends a confusing message to
+prospective employers. it’s a positioning problem; It makes it seem like you’re not looking
+for full-time employment, because it fits a different mold.
+I’d suggest maybe mentioning complementary skills on your resume, or in an interview. It
+doesn’t need to be added to your portfolio site; save that real estate for your primary
+skillset. ** altough note here you absoltly can highlight the soft/people skills you have gained thorugh your years of management experience that most if not all other canidedtes won't have
+//
+
+Bravado
+I’ve seen a few junior dev portfolios that include language like:
+• Head and shoulders above the rest
+• Master of Javascript
+• 10x junior developer
+Most companies hire junior developers based on potential, not based on your current level of
+expertise. In fact, when a senior developer reviews your portfolio, they’re hoping to see that
+you’re eager to learn, humble, and looking for guidance; folks like that tend to be easier to
+mentor, and make for better teammates.
+The problem with this language is that it gives the impression that you’re finished learning.
+If you’ve mastered Javascript, how are you going to react when you submit some code to be
+reviewed, and a lot of changes are requested?
+It gives the impression that you’ll be hard to work with.
+This is admittedly a rare problem; most folks underestimate their abilities, not overestimate
+them. But this still does happen sometimes.
+//
+
+IN SUMMARY
+• We want to target our portfolio at two cohorts of individuals:
+◦ HR Hiring Managers are looking for competence, enthusiasm, and fit
+◦ Software developers are looking for folks with grit and determination, and who
+will be easy to mentor
+• Structurally, our portfolio should feature 3 things on the homepage: an “About Me”
+section, a list of projects, and a contact form (or other contact method).
+• In terms of tone, your portfolio site should reflect your personality. It should be
+specific enough that it would obviously be plagiarism if someone else tried to use your
+“About me” section. Avoid generic platitudes or corporate-speak.
+• For your “Projects” section, live demos are overhyped and underutilized. We want to
+be a tour guide, guiding readers through the most impressive parts of our projects. Tell
+a story. We’ll learn more about how to do this in the coming chapters (this is arguably
+the most important part of this book!)
+• Be creative with sprinkles—small bits of flair that showcase your enthusiasm for
+development. This is especially relevant for folks who are primarily interested in frontend roles.
+• Avoid skill charts, or any other quantitative representation of your skills.
+• Avoid bravado. You want to make it clear that you’re eager to learn from more
+experienced developers, not that you think you already know everything.
+//
+
+
